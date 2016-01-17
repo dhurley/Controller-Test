@@ -1,3 +1,5 @@
+# Controller Test
+
 This project was created to add support for different controllers in Unity. 
 If you want to add controller support to your unity project just copy the InputManager.asset file and the Controller.cs file to your project.
 
